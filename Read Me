@@ -1,0 +1,6 @@
+Credit-CS50-Java
+Building the Credit assignment of CS50 in Java
+
+Credit is a excercise of Harvards CS50 program. After writing in C and Python practicing my Java Skills. Goal of the program is: Implementing program that determines whether a provided credit card number is valid according to Luhn’s algorithm.
+
+The original CS50 Assignment can be found over here: https://cs50.harvard.edu/x/2023/psets/1/credit/#credit-cards
